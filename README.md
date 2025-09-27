@@ -18,6 +18,7 @@ This notebook covers the following key machine learning areas and algorithms:
     *   Decision Tree
     *   Random Forest
     *   Gradient Boosting (using scikit-learn, XGBoost, and LightGBM)
+    *   Support Vector Machines (SVM)
 *   **Clustering (Unsupervised Learning):**
     *   K-Means
     *   Hierarchical Clustering
