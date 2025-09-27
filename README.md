@@ -65,4 +65,5 @@ The notebook requires the following libraries (most are pre-installed in Colab):
 * Hands-on experience with Regression, Classification, Clustering, Dimensionality Reduction, Ensemble Methods, Recommendation Systems, and Perceptrons.
 * Serves as a bridge to more advanced topics, such as neural networks and deep learning.
 
-- 🗿 This notebook was created as a personal learning project. Explanations and guidance were supplemented with resources including ChatGPT and official documentation.
+---
+**🗿 This notebook was created as a personal learning project. Explanations and guidance were supplemented with resources including ChatGPT and official documentation.**
